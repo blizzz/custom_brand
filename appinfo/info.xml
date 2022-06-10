@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>custom_brand</id>
+	<name>Example branding</name>
+	<summary>Example branding app</summary>
+	<description>Showing how to do some branding from an app</description>
+	<version>1.0.0</version>
+	<licence>agpl</licence>
+	<author>Julius Haertl</author>
+	<namespace>CustomBrand</namespace>
+	<category>tools</category>
+	<dependencies>
+		<nextcloud min-version="25" max-version="25"/>
+	</dependencies>
+</info>
